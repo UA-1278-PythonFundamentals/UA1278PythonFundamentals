@@ -11,7 +11,7 @@ The Zen of Python, by Tim Peters
 9Forester-code5
 10den-rohachov
 11AnastasiiaVeselovska
-12Bozhenoid
+12 In the face of ambiguity, refuse the temptation to guess.
 13BogdanVovchuk
 14pro100daniil
 15Merkul0
