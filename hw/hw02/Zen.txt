@@ -3,7 +3,7 @@ The Zen of Python, by Tim Peters
 1prohodec
 2hola2005
 3smoliymaryan89
-4HalynaFedkiv
+4 Complex is better than complicated.
 5finyak4
 6imychkova
 7RomaPavl
