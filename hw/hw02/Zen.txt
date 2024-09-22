@@ -13,7 +13,7 @@ The Zen of Python, by Tim Peters
 11AnastasiiaVeselovska
 12 In the face of ambiguity, refuse the temptation to guess.
 13BogdanVovchuk
-14pro100daniil
+14 Although that way may not be obvious at first unless you're Dutch.
 15Merkul0
 16Tonnnya
 17EnumVLlad
