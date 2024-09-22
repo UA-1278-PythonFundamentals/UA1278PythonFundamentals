@@ -9,7 +9,7 @@ The Zen of Python, by Tim Peters
 7RomaPavl
 8Mlvsky
 9Forester-code5
-10 Errors should never pass silently.
+10  Errors should never pass silently.
 11AnastasiiaVeselovska
 12 In the face of ambiguity, refuse the temptation to guess.
 13BogdanVovchuk
