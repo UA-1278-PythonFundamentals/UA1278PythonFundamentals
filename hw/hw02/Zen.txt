@@ -15,7 +15,7 @@ The Zen of Python, by Tim Peters
 13BogdanVovchuk
 14 Although that way may not be obvious at first unless you're Dutch.
 15Merkul0
-16Tonnnya
+16Although never is often better than *right* now.
 17EnumVLlad
 18RlNolino
 19 Namespaces are one honking great idea -- let's do more of those!
