@@ -2,7 +2,7 @@ The Zen of Python, by Tim Peters
 
 1prohodec
 2 Explicit is better than implicit.
-3smoliymaryan89
+3 Simple is better than complex.
 4 Complex is better than complicated.
 5finyak4
 6imychkova
