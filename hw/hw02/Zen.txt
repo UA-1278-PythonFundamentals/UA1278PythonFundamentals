@@ -20,5 +20,5 @@ The Zen of Python, by Tim Peters
 18RlNolino
 19 Namespaces are one honking great idea -- let's do more of those!
 20EllowLemon
-21yariklastik
+21 Explicit is better than implicit.
 22yaroslaviakovliev
