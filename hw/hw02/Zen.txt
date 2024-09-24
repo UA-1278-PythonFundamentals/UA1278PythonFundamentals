@@ -4,7 +4,7 @@ The Zen of Python, by Tim Peters
 2 Explicit is better than implicit.
 3 Simple is better than complex.
 4 Complex is better than complicated.
-5finyak4
+5 Flat is better than nested.
 6imychkova
 7Readability counts.
 8Mlvsky
@@ -20,5 +20,5 @@ The Zen of Python, by Tim Peters
 18RlNolino
 19 Namespaces are one honking great idea -- let's do more of those!
 20EllowLemon
-21yariklastik
+21 Explicit is better than implicit.
 22yaroslaviakovliev
