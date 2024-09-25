@@ -16,7 +16,7 @@ The Zen of Python, by Tim Peters
 14 Although that way may not be obvious at first unless you're Dutch.
 15Merkul0
 16Although never is often better than *right* now.
-17EnumVLlad
+17 If the implementation is hard to explain, it's a bad idea.
 18RlNolino
 19 Namespaces are one honking great idea -- let's do more of those!
 20EllowLemon
