@@ -29,9 +29,9 @@ reverse_number = int(str(number)[::-1])
 
 print(f"Reverse: {reverse_number}")
 
-acs_order = int("".join(sorted(str(number))))
+asc_order = int("".join(sorted(str(number))))
 
-print(f"Ascending order: {acs_order}")
+print(f"Ascending order: {asc_order}")
 
 # TASK 3
 
