@@ -10,7 +10,7 @@ The Zen of Python, by Tim Peters
 8Mlvsky
 9 Although practicality beats purity.
 10 Errors should never pass silently.
-11AnastasiiaVeselovska
+11 Unless explicitly silenced.
 12 In the face of ambiguity, refuse the temptation to guess.
 13BogdanVovchuk
 14 Although that way may not be obvious at first unless you're Dutch.
