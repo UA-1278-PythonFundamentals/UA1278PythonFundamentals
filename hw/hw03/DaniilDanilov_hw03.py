@@ -25,7 +25,7 @@ If the implementation is easy to explain, it may be a good idea.\
 Namespaces are one honking great idea -- let's do more of those!"
 
 print("Separately the number of occurrences of the word \"better\" is:",t.count("better"))
-print("Separately the number of occurrences of the word \"better\" is:",t.count("never"))
+print("Separately the number of occurrences of the word \"never\" is:",t.count("never"))
 print("Separately the number of occurrences of the word \"is\" is:",t.count("is"))
 
 # Task 1.2
