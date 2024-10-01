@@ -40,7 +40,7 @@ print(t.replace("i", "&"))
 
 
 
-number = 2124   
+number = 105  
 print ("Number:", number)
 
 #2.1
