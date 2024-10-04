@@ -181,12 +181,14 @@
 #     print(i)
 
 
-l = [2, 4,5, 6]
-i = 0
-while i < len(l):
-    if l[i] % 2 == 1:  # Перевіряємо елемент списку на непарність
-        print("Has odd numbers")
-        break
+# l = [2, 4,5, 6]
+# i = 0
+# while i < len(l):
+#     if l[i] % 2 == 1:  # Перевіряємо елемент списку на непарність
+#         print("Has odd numbers")
+#         break
 
-    print("Does not have odd numbers")
-    i += 1
+#     print("Does not have odd numbers")
+#     i += 1
+
+
