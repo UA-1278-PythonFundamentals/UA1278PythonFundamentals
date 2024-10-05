@@ -55,6 +55,7 @@ print("Product of the digits:", product_of_digits)
 print("Number in reverse order:", reverse_number)
 print("Digits in ascending order:", sorted_digits)
 
+
 print("")
 print("Task 3")
 print("")
