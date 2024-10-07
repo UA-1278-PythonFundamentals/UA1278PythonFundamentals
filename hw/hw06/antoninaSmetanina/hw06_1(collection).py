@@ -35,3 +35,13 @@ for i in range(1, 11):
 print(f'Even numbers is: {even_num1}') # [2, 4, 6, 8, 10]
 print(f'Odd numbers is: {odd_num1}') # [3, 6, 9]
 print(f'Numbers that are not divisible by 2 and 3 is: {rest_of_num1}') # [1, 5, 7]
+
+# Elegant way for list
+even_num2 = [i for i in range(1, 11) if i % 2 == 0]
+print(even_num2)
+
+odd_num2 = [i for i in range(1, 11) if i % 3 == 0]
+print(odd_num2)
+
+rest_of_num2 = [i for i in range(1, 11) if i % 2 != 0 and i % 3 != 0]
+print(rest_of_num2)
