@@ -7,7 +7,7 @@ The Zen of Python, by Tim Peters
 5 Flat is better than nested.
 6imychkova
 7Readability counts.
-8Mlvsky
+8 Special cases aren't special enough to break the rules.
 9 Although practicality beats purity.
 10 Errors should never pass silently.
 11 Unless explicitly silenced.
