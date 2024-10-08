@@ -22,3 +22,4 @@ login = input("Enter login:")
 while login == "First":
     print ("Congratulations")
     break
+else: print ("Error")
