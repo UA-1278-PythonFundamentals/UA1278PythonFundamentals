@@ -1,4 +1,6 @@
-import math
+__all__ = ['rectangle_area', 'triangle_area', 'circle_area']
+
+from math import pi
 
 
 def rectangle_area(a, b):
@@ -23,5 +25,4 @@ def circle_area(r):
     """Calculates the area of a circle
     :param r: int or float
     :return: the area of a circle"""
-    return math.pi*pow(r, 2)
-
+    return pi*pow(r, 2)

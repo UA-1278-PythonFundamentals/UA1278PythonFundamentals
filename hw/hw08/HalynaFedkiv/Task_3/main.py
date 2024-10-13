@@ -1,4 +1,4 @@
-from Task_3 import *
+from areas import *
 
 
 choice = input('Press "1" to calculate the area of a rectangle.\n'
