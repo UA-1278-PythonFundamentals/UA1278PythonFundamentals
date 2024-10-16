@@ -16,7 +16,7 @@ result = re.findall(pattern, text)
 print(result)
 
 def validate_full_name(full_name):
-    p = "^[A-Z][a-z]+(?: [A-Z][a-z]+)*$"
+    p = '^[A-Z][a-z]+(?: [A-Z][a-z]+)*$'
     if re.match(p, full_name):
         return True
     else:
