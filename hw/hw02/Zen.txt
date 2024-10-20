@@ -19,6 +19,6 @@ The Zen of Python, by Tim Peters
 17 If the implementation is hard to explain, it's a bad idea.
 18RlNolino
 19 Namespaces are one honking great idea -- let's do more of those!
-20EllowLemon
+20 Beautiful is better than ugly.
 21 Explicit is better than implicit.
 22yaroslaviakovliev
