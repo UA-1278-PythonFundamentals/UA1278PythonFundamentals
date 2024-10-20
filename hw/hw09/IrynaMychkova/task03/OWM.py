@@ -8,19 +8,33 @@ owm = OWM(API_KEY)
 mgr = owm.weather_manager()
 
 
-# Search for current weather in London (Great Britain) and get details
-observation = mgr.weather_at_place('London,GB')
-w = observation.weather
+# # Search for current weather in London (Great Britain) and get details
+# observation = mgr.weather_at_place('London,GB')
+# w = observation.weather
 
-print(w.detailed_status)         # 'clouds'
-print(w.wind())                  # {'speed': 4.6, 'deg': 330}
-print(w.humidity)                # 87
-print(w.temperature('celsius'))  # {'temp_max': 10.5, 'temp': 9.7, 'temp_min': 9.0}
-print(w.rain)                    # {}
-print(w.heat_index)              # None
-print(w.clouds)                  # 75
+# print(w.detailed_status)         # 'clouds'
+# print(w.wind())                  # {'speed': 4.6, 'deg': 330}
+# print(w.humidity)                # 87
+# print(w.temperature('celsius'))  # {'temp_max': 10.5, 'temp': 9.7, 'temp_min': 9.0}
+# print(w.rain)                    # {}
+# print(w.heat_index)              # None
+# print(w.clouds)                  # 75
 
+def call_for_weather(place: str):
+    print(2, place)
+    observation = mgr.weather_at_place(place)
+    w = observation.weather
 
+    print(w.detailed_status)         # 'clouds'
+    print(w.wind())                  # {'speed': 4.6, 'deg': 330}
+    print(w.humidity)                # 87
+    print(w.temperature('celsius'))  # {'temp_max': 10.5, 'temp': 9.7, 'temp_min': 9.0}
+    print(w.rain)                    # {}
+    print(w.heat_index)              # None
+    print(w.clouds)                  # 75
+
+    return w.detailed_status, w.wind(), w.humidity, w.temperature('celsius'), w.rain, w.heat_index, w.clouds
+  
 
 
 
