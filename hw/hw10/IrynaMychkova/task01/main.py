@@ -3,7 +3,10 @@
 
 class Polygon:
     """Class Polygon"""
-    pass
+    
+    def area(self) -> float:
+        """Method area"""
+        pass
 
 class Rectangle(Polygon):
     """Class Rectangle"""
