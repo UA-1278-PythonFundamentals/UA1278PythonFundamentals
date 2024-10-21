@@ -11,10 +11,6 @@ class Polygon:
 class Rectangle(Polygon):
     """Class Rectangle"""
 
-    __a:float = 0.0
-
-    __b:float = 0.0
-
     def __init__(self, a:float, b:float):
         """Constructor"""
         if a<=0 or b<=0:
