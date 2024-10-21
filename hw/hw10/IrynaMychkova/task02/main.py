@@ -6,8 +6,6 @@
 
 class Human:
     """Class Human"""
-
-    __name:str = ""
     
     def __init__(self, name:str):
         """
@@ -35,12 +33,10 @@ class Human:
         return "Homosapiens"
 
 
-olga = Human("Olga")
-print(olga.welcome()) # Hello, Olga!
-print(olga.species()) # Homosapiens
+olga = Human("Jhon Doe")
+print(olga.welcome() + ' ' + olga.species())
 
-vasyl = Human("Vasyl")
-print(vasyl.welcome()) # Hello, Vasyl!
-print(vasyl.species()) # Homosapiens
+vasyl = Human("Jane Doe")
+print(vasyl.welcome() + ' ' + vasyl.species())
 
 print(Human.species()) # Homosapiens
