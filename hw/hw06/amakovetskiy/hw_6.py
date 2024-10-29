@@ -32,3 +32,18 @@ print(odd_num2)
 
 not_divisible2 = [i for i in range(1, 11) if i % 2 != 0 and i % 3 != 0]
 print(not_divisible2)
+
+
+print(print ("\n\n\n\n\n##############################(Task2)#################################\n\n\n\n"))
+
+#  Task2. Write a script that checks the login that the user enters.
+# # If the login is "First", then greet the users. If the login is
+# # different, send an error message.
+# # (need to use loop while)
+
+login = input('Enter Login: ')
+while login == 'First':
+    print('Login is success!')
+    break
+else:
+    print('Error message. Repeat, enter Login!')
