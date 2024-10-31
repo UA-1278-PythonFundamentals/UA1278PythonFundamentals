@@ -73,10 +73,10 @@ else:
     print ("\n\n\n\n\n##############################(Task3)#################################\n\n\n\n")
 
 
-    # Task3. Write a function that calculates the number of characters
-# included in a given string
-# • input: "hello"
-# • output: {"h":1, "e":1,"l":2,"o":1}
+    Task3. Write a function that calculates the number of characters
+included in a given string
+• input: "hello"
+• output: {"h":1, "e":1,"l":2,"o":1}
 
 def count_letters(word='hello'):
     letter_count = {}
@@ -89,3 +89,4 @@ def count_letters(word='hello'):
 
 
 print(count_letters())
+
