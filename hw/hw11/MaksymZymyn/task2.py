@@ -3,6 +3,7 @@
 # into account cases of entering numbers from 8 and more, as well as cases of entering nonnumerical data.
 import logging
 import time
+from datetime import datetime, timedelta
 
 logging.basicConfig(
     format="%(asctime)s  %(name)s - %(levelname)s  - %(message)s",
@@ -31,6 +32,10 @@ def check_weekday():
                 7: "Sunday"
             }
             logging.info(f"The day with number {weekday} is {days[weekday]}.")
+            # Or
+            # base_date = datetime(1900, 1, 1)
+            # day_date = base_date + timedelta(days=weekday - 1)
+            # logging.info(f"The day with number {weekday} is {day_date.strftime("%A")}.")
             break
         finally:
             logging.info("Operation completed.")
