@@ -1,0 +1,12 @@
+1;Charlie Miller;36;charlie.miller@testmail.com;Moderator
+2;Ethan Davis;56;ethan.davis@example.com;Admin
+3;Ian Williams;27;ian.williams@testmail.com;Admin
+4;Ethan Williams;26;ethan.williams@mailservice.com;Member
+5;Diana Taylor;33;diana.taylor@example.com;Member
+6;Ian Wilson;18;ian.wilson@example.com;Guest
+7;Fiona Smith;24;fiona.smith@testmail.com;Moderator
+8;Ethan Johnson;48;ethan.johnson@webmail.com;Moderator
+9;Ethan Wilson;23;ethan.wilson@example.com;User
+10;Alice Davis;30;alice.davis@webmail.com;User
+11;asd;20;asd@a.aa;Admin
+12;sfgsdgf;19;galamagal86@gmail.com;User
