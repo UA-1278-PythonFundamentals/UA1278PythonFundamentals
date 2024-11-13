@@ -1,3 +1,4 @@
+========================================================================
 The Zen of Python, by Tim Peters
 
 1 Beautiful is better than ugly.
@@ -22,3 +23,5 @@ The Zen of Python, by Tim Peters
 20 Beautiful is better than ugly.
 21 Explicit is better than implicit.
 22yaroslaviakovliev
+
+========================================================================
