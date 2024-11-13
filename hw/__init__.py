@@ -10,5 +10,5 @@ for path in os.walk(os.getcwd() + "\\hw"):
             d[s_path[6]].append(s_path[5])
         else:
             d[s_path[6]] = [s_path[5]]
-from pprint import pprint
-pprint(d)
+for author, hw in d.items():
+    print(f"{author: <20}", hw, sep="\t")
