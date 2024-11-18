@@ -45,3 +45,6 @@ print(odd_num2)
 
 rest_of_num2 = [i for i in range(1, 11) if i % 2 != 0 and i % 3 != 0]
 print(rest_of_num2)
+
+even_num3 =[i for i in range(1, 11) if i % 2==0]
+print (even_num3)

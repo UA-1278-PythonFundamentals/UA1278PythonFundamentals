@@ -26,3 +26,19 @@ print(validate_full_name("Liubomyr halamaha"))
 print(validate_full_name("Liubomyr Halamaha"))
 print(validate_full_name("Liubomyr1 Halamaha"))
 print(validate_full_name("Liubomyr Fo"))
+
+
+from own.weather import API_KEY
+
+import own.weather
+
+own.weather.API_KEY
+
+
+import own.weather as ow
+
+own.API_KEY
+
+from own import weather
+
+weather.API_KEY
