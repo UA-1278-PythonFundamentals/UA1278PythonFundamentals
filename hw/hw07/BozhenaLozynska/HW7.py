@@ -18,7 +18,7 @@ def largest_number(num1, num2):
         import math
 
 def area_of_rectangle(length, width):
-return length * width
+    return length * width
 def area_of_triangle(base, height):
      return 0.5 * base * height
 
