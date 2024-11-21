@@ -10,6 +10,12 @@ for num in range(1, 11):
     elif num % 2 != 0 and num % 3 != 0:  
         numbers_not_divisible_by_2_or_3.append(num)
 
+
+
+
+
+
+
         while True:
     login = input("Enter your login: ") 
     if login == "First":
